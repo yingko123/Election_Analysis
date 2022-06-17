@@ -17,9 +17,10 @@ Our analysis of the election results shows that:
 ## Election Audit Summary:
 This Python script can be used to audit any future election results where County and Candidate information is collected along with ballot ID.  With some modification to the script, we can analyze election results with further details such as the type of ballot being cast for the whole election and for each candidate.  It may also be interesting to look at the sex and age of the voter for the whole election and for each candidate.  
 
-## Resources:
-* Data Source: election_results.csv
-* Software: Python 3.7.6, Visual Studio Code, 1.68.1
+## Output and Script
+[Election analysis results in a text file format](analysis/election_analysis.txt) <br/>
+[Python script for our Election Audit Analysis](PyPoll_Challenge.py)
 
-## Output
-[Election analysis results in a text file format](analysis/election_analysis.txt)
+## Resources:
+* Data Source: [election_results.csv](Resources/election_results.csv)
+* Software: Python 3.7.6, Visual Studio Code, 1.68.1
